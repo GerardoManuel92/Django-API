@@ -154,4 +154,3 @@ EMAIL_HOST_PASSWORD = 'eowtbsideqvrkhst'
 #Configuracion opcional para el correo
 DEFAULT_FROM_EMAIL = 'gg204872@gmail.com'
 EMAIL_SUBJECT_PREFIX = '[API-Django]'
-
